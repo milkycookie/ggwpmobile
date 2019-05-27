@@ -1,0 +1,118 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"isGameCenterEnabled":false, 
+
+"ipadScreenshotUrls":["https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/ae/c3/88/aec38843-da35-78c4-a7de-d4b9adaaecc9/mzl.fatoqiwa.png/552x414bb.png", 
+"https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/21/59/d3215946-8b64-ca7e-7391-65ed25fc6dce/mzl.fmhsoitp.png/552x414bb.png", 
+"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/10/1e/5f/101e5ff0-5447-5043-b682-55e1b5bc22e9/mzl.iohicujz.png/552x414bb.png", 
+"https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/7a/96/60/7a9660cf-9143-edbb-9c2e-d7b1d28b6139/mzl.qntnhuiv.png/552x414bb.png", 
+"https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/dc/84/39/dc8439c1-d627-8b1f-2d1c-658513c793b9/mzl.augfsvha.png/552x414bb.png", 
+"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/d9/48/5b/d9485bd9-6335-27b2-d109-7d3d9f39ded7/mzl.vcuhuyvm.png/552x414bb.png", 
+"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7a/22/c9/7a22c921-324e-7a27-c359-d699f1237f2e/mzl.ptzqfoam.png/552x414bb.png"], 
+
+"appletvScreenshotUrls":[], 
+
+"artworkUrl60":"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/4f/80/1d4f8010-215f-8eb0-d26d-db2272a5dabd/source/60x60bb.jpg", 
+"artworkUrl512":"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/4f/80/1d4f8010-215f-8eb0-d26d-db2272a5dabd/source/512x512bb.jpg", 
+"artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/4f/80/1d4f8010-215f-8eb0-d26d-db2272a5dabd/source/100x100bb.jpg", 
+
+"artistViewUrl":"https://itunes.apple.com/us/developer/broken-rules/id394127428?mt=8&uo=4", 
+
+"screenshotUrls":["https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/de/da/a4/dedaa42b-e1f2-381f-81b7-5e493df5e749/mzl.qaooffre.png/406x722bb.png", 
+"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f4/65/26/f4652631-e54a-cfee-875c-e8bda366d003/mzl.zewyonsz.png/406x722bb.png", 
+"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/11/eb/54/11eb54f6-c5bd-122b-9492-52e9883b7257/mzl.ymqkbkpu.png/406x722bb.png", 
+"https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/a0/fe/d7/a0fed7e5-35c5-ca9e-ae13-1b2e8f070685/mzl.ncokazni.png/406x722bb.png", 
+"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/32/ee/08/32ee08ed-400a-6d38-57a2-e080026e7725/mzl.gaausvli.png/406x722bb.png", 
+"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/eb/2a/a5eb2a62-909a-3f81-d524-523e7705560d/mzl.jlqsurjd.png/406x722bb.png", 
+"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0b/53/38/0b53380e-e18a-a87b-b40d-e56d11199a2c/mzl.irerohtj.png/406x722bb.png"], 
+
+"supportedDevices":["iPhone5-iPhone5", "iPadFourthGen-iPadFourthGen", "iPadFourthGen4G-iPadFourthGen4G", "iPhone5c-iPhone5c", "iPhone5s-iPhone5s", "iPadAir-iPadAir", "iPadAirCellular-iPadAirCellular", "iPadMiniRetina-iPadMiniRetina", "iPadMiniRetinaCellular-iPadMiniRetinaCellular", "iPhone6-iPhone6", "iPhone6Plus-iPhone6Plus", 
+"iPadAir2-iPadAir2", "iPadAir2Cellular-iPadAir2Cellular", "iPadMini3-iPadMini3", "iPadMini3Cellular-iPadMini3Cellular", 
+"iPodTouchSixthGen-iPodTouchSixthGen", "iPhone6s-iPhone6s", "iPhone6sPlus-iPhone6sPlus", 
+"iPadMini4-iPadMini4", "iPadMini4Cellular-iPadMini4Cellular", "iPadPro-iPadPro", "iPadProCellular-iPadProCellular", "iPadPro97-iPadPro97", "iPadPro97Cellular-iPadPro97Cellular", "iPhoneSE-iPhoneSE", "iPhone7-iPhone7", "iPhone7Plus-iPhone7Plus", "iPad611-iPad611", "iPad612-iPad612", "iPad71-iPad71", "iPad72-iPad72", "iPad73-iPad73", "iPad74-iPad74", "iPhone8-iPhone8", 
+"iPhone8Plus-iPhone8Plus", "iPhoneX-iPhoneX", "iPad75-iPad75", "iPad76-iPad76", "iPhoneXS-iPhoneXS", "iPhoneXSMax-iPhoneXSMax", 
+"iPhoneXR-iPhoneXR", "iPad812-iPad812", "iPad834-iPad834", "iPad856-iPad856", "iPad878-iPad878", 
+"iPadMini5-iPadMini5", "iPadMini5Cellular-iPadMini5Cellular", "iPadAir3-iPadAir3", "iPadAir3Cellular-iPadAir3Cellular"], 
+
+"advisories":[], 
+
+"kind":"software", 
+
+"features":["iosUniversal"], 
+
+"averageUserRatingForCurrentVersion":4.5, 
+
+"trackCensoredName":"Old Man's Journey", 
+
+"languageCodesISO2A":["AR", "CA", "ZH", "HR", "CS", "DA", "NL", "EN", "FI", "FR", "DE", "EL", "HE", "HI", "HU", "ID", "IT", "JA", "KO", "MS", "NB", "PL", "PT", "RO", "RU", "SK", "ES", "SV", "TH", "TR", "UK", "VI"], 
+
+"fileSizeBytes":"1733878784", 
+
+"sellerUrl":"http://oldmansjourney.com", 
+
+"contentAdvisoryRating":"4+", 
+
+"userRatingCountForCurrentVersion":31, 
+
+"trackViewUrl":"https://itunes.apple.com/us/app/old-mans-journey/id1204902987?mt=8&uo=4", 
+
+"trackContentRating":"4+", 
+
+"currentVersionReleaseDate":"2019-05-05T22:36:40Z", 
+
+"minimumOsVersion":"10.0", 
+
+"trackId":1204902987, 
+
+"trackName":"Old Man's Journey", 
+
+"releaseNotes":"We fixed a hang up that occurred during startup on some newer iPads.", 
+
+"isVppDeviceBasedLicensingEnabled":true, 
+
+"genreIds":["6014", "7012", "7002"], 
+
+"sellerName":"Broken Rules Interactive Media GmbH", 
+
+"currency":"USD", 
+
+"wrapperType":"software", 
+
+"version":"1.14", 
+
+"releaseDate":"2017-05-18T01:19:50Z", 
+
+"primaryGenreName":"Games", 
+
+"primaryGenreId":6014, 
+
+"artistId":394127428, 
+
+"artistName":"Broken Rules", 
+
+"genres":["Games", "Puzzle", "Adventure"], 
+
+"price":4.99, 
+
+"description":"A soul-searching adventure about life’s precious moments, broken dreams, and changed plans.\n 
+\nOver 17 International Awards, including: \n- Apple Design Award (USA)\n- Emotional Game Award (France)\n- Innovation Award (Brazil)\n- 
+Best Art Award (Japan)\n\nFeatures:\n- A powerful and emotional narrative told only through imagery\n- Gorgeously whimsical landscapes with hand-drawn art 
+and animations\n- 
+Handcrafted, pressure-free puzzles\n- Unique landscape-shaping mechanic\n- 
+A compact game experience perfect for a wanderlust-evoking escape\n- Original and emotionally compelling soundtrack by SCNTFC\n\n\"A gorgeous experience.\" - 
+TouchArcade (10/10)\n\"An absolute joy to look at and play\" - The Guardian\n\"A whimsical poem\" - Polygon (8/10)", 
+
+"bundleId":"es.brokenrul.oldmansjourney", 
+
+"formattedPrice":"$4.99", 
+
+"userRatingCount":1526, 
+
+"averageUserRating":4.0}]
+}
+
+
